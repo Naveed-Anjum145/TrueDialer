@@ -26,7 +26,7 @@
 
   <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-   <img class="img-fluid logo-img" src="assets/img/truetechicon.png" alt="True Dialer Logo">
+   <img class="img-fluid logo-img" src="assets/img/td.png" alt="True Dialer Logo">
     <a href="index.php" class="logo d-flex align-items-center me-auto">
       <h1 class="sitename">True Dialer</h1>
     </a>
