@@ -94,7 +94,7 @@
           <div class="col-lg-6 our_mission" data-aos="fade-up" data-aos-delay="200">
             <div class="content our_content">
               <h2>Our Mission</h2>
-              <h4>Our mission is to provide a safer and smarter calling experience by protecting users from spam, fraud, and unwanted calls. With advanced caller ID, real-time spam detection, and contact management tools, True Dialer helps users communicate confidently and stay organized..</h4>
+              <h4>Our mission is to provide a safer and smarter calling experience by protecting users from spam, fraud, and unwanted calls. With advanced caller ID, real-time spam detection, and contact management tools, True Dialer helps users communicate confidently and stay organized.</h4>
               <p>
                 Our goal is to enhance user privacy and security with advanced True Dialer features and smart spam protection — ensuring every call is safe, trusted, and interruption-free.
               </p>
