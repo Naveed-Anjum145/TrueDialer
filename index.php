@@ -27,13 +27,6 @@
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: FlexStart
-  * Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-  * Updated: Nov 01 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
   <style>
     .our_mission {
       display: flex;
@@ -102,7 +95,7 @@
           </div>
 
           <div class="col-lg-6 d-flex align-items-center justify-content-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="assets/img/spamcallllll.png" class="img-fluid spamcall_img" alt="">
+            <img src="assets/img/spamcallllll.png" class="img-fluid spamcall_img rounded" alt="">
           </div>
 
         </div>
